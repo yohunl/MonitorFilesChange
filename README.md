@@ -130,11 +130,11 @@ static void KQCallback(CFFileDescriptorRef kqRef, CFOptionFlags callBackTypes, v
 
 ### 参考文档
 
-[handling-filesystem-events-with-gcd](http://www.davidhamrick.com/2011/10/10/handling-filesystem-events-with-gcd.html)
-[Monitoring-Files-With-GCD-Being-Edited-With-A-Text-Editor](http://www.davidhamrick.com/2011/10/13/Monitoring-Files-With-GCD-Being-Edited-With-A-Text-Editor.html)
-[gcd-zhi-jian-ting-wen-jian](http://ksnowlv.github.io/blog/2014/09/06/gcd-zhi-jian-ting-wen-jian/)
-[GCDWorkQueues](https://developer.apple.com/library/content/documentation/General/Conceptual/ConcurrencyProgrammingGuide/GCDWorkQueues/GCDWorkQueues.html)
-[iMonitorMyFiles](https://github.com/tblank555/iMonitorMyFiles)
+[handling-filesystem-events-with-gcd](http://www.davidhamrick.com/2011/10/10/handling-filesystem-events-with-gcd.html)  
+[Monitoring-Files-With-GCD-Being-Edited-With-A-Text-Editor](http://www.davidhamrick.com/2011/10/13/Monitoring-Files-With-GCD-Being-Edited-With-A-Text-Editor.html)  
+[gcd-zhi-jian-ting-wen-jian](http://ksnowlv.github.io/blog/2014/09/06/gcd-zhi-jian-ting-wen-jian/)  
+[GCDWorkQueues](https://developer.apple.com/library/content/documentation/General/Conceptual/ConcurrencyProgrammingGuide/GCDWorkQueues/GCDWorkQueues.html)  
+[iMonitorMyFiles](https://github.com/tblank555/iMonitorMyFiles)  
 
 
 
